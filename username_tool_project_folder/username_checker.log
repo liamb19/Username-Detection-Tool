@@ -1,0 +1,790 @@
+2025-04-26 13:54:14,386 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-26 13:54:14,386 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-26 13:54:14,388 - werkzeug - INFO -  * Restarting with stat
+2025-04-26 13:54:15,278 - werkzeug - WARNING -  * Debugger is active!
+2025-04-26 13:54:15,287 - werkzeug - INFO -  * Debugger PIN: 826-472-098
+2025-04-26 13:54:18,138 - werkzeug - INFO - 127.0.0.1 - - [26/Apr/2025 13:54:18] "GET / HTTP/1.1" 200 -
+2025-04-26 13:54:22,242 - __main__ - INFO - Checking GitHub for jaic.saji_04
+2025-04-26 13:54:22,242 - __main__ - INFO - Checking Twitter for jaic.saji_04
+2025-04-26 13:54:24,172 - __main__ - INFO - Requesting https://x.com/jaic.saji_04 with User-Agent: Mozilla/5.0 (iPhone; CPU iPhon...
+2025-04-26 13:54:24,446 - __main__ - INFO - Final URL: https://x.com/jaic.saji_04
+2025-04-26 13:54:24,447 - __main__ - INFO - Status Code: 200
+2025-04-26 13:54:24,450 - __main__ - INFO - Checking Instagram for jaic.saji_04
+2025-04-26 13:54:26,365 - __main__ - INFO - Requesting https://www.instagram.com/jaic.saji_04/ with User-Agent: Mozilla/5.0 (Windows NT 10.0; ...
+2025-04-26 13:54:26,721 - __main__ - INFO - Final URL: https://www.instagram.com/jaic.saji_04/
+2025-04-26 13:54:26,721 - __main__ - INFO - Status Code: 200
+2025-04-26 13:54:26,737 - __main__ - INFO - Checking YouTube for jaic.saji_04
+2025-04-26 13:54:27,885 - __main__ - INFO - Requesting https://www.youtube.com/@jaic.saji_04 with User-Agent: Mozilla/5.0 (Windows NT 10.0; ...
+2025-04-26 13:54:28,138 - __main__ - INFO - Final URL: https://consent.youtube.com/m?continue=https%3a%2f%2fwww.youtube.com%2f%40jaic.saji_04%3fcbrd%3d1&gl=gb&m=0&pc=yt&cm=2&hl=en&src=1
+2025-04-26 13:54:28,139 - __main__ - INFO - Status Code: 200
+2025-04-26 13:54:28,139 - __main__ - INFO - Detected YouTube consent page - proceeding with availability check
+2025-04-26 13:54:28,141 - werkzeug - INFO - 127.0.0.1 - - [26/Apr/2025 13:54:28] "POST / HTTP/1.1" 200 -
+2025-04-26 13:54:59,726 - werkzeug - INFO -  * Detected change in 'c:\\Users\\Liam Uni\\Desktop\\project_folder\\example2.py', reloading
+2025-04-26 13:54:59,768 - werkzeug - INFO -  * Restarting with stat
+2025-04-26 13:55:00,672 - werkzeug - WARNING -  * Debugger is active!
+2025-04-26 13:55:00,680 - werkzeug - INFO -  * Debugger PIN: 826-472-098
+2025-04-26 13:55:05,122 - werkzeug - INFO -  * Detected change in 'c:\\Users\\Liam Uni\\Desktop\\project_folder\\example2.py', reloading
+2025-04-26 13:55:05,180 - werkzeug - INFO -  * Restarting with stat
+2025-04-26 13:55:06,142 - werkzeug - WARNING -  * Debugger is active!
+2025-04-26 13:55:06,149 - werkzeug - INFO -  * Debugger PIN: 826-472-098
+2025-04-26 13:55:15,902 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-26 13:55:15,902 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-26 13:55:15,905 - werkzeug - INFO -  * Restarting with stat
+2025-04-26 13:55:16,858 - werkzeug - WARNING -  * Debugger is active!
+2025-04-26 13:55:16,868 - werkzeug - INFO -  * Debugger PIN: 826-472-098
+2025-04-26 13:55:19,426 - __main__ - INFO - Checking GitHub for liambiju.19
+2025-04-26 13:55:19,428 - __main__ - INFO - Checking Twitter for liambiju.19
+2025-04-26 13:55:21,672 - __main__ - INFO - Requesting https://x.com/liambiju.19 with User-Agent: Mozilla/5.0 (Macintosh; Intel ...
+2025-04-26 13:55:21,933 - __main__ - INFO - Final URL: https://x.com/liambiju.19
+2025-04-26 13:55:21,934 - __main__ - INFO - Status Code: 200
+2025-04-26 13:55:21,936 - __main__ - INFO - Checking Instagram for liambiju.19
+2025-04-26 13:55:24,518 - __main__ - INFO - Requesting https://www.instagram.com/liambiju.19/ with User-Agent: Mozilla/5.0 (Windows NT 10.0; ...
+2025-04-26 13:55:24,803 - __main__ - INFO - Final URL: https://www.instagram.com/liambiju.19/
+2025-04-26 13:55:24,803 - __main__ - INFO - Status Code: 200
+2025-04-26 13:55:24,822 - __main__ - INFO - Checking YouTube for liambiju.19
+2025-04-26 13:55:26,408 - __main__ - INFO - Requesting https://www.youtube.com/@liambiju.19 with User-Agent: Mozilla/5.0 (X11; Linux x86_64...
+2025-04-26 13:55:26,600 - __main__ - INFO - Final URL: https://consent.youtube.com/m?continue=https%3a%2f%2fwww.youtube.com%2f%40liambiju.19%3fcbrd%3d1&gl=gb&m=0&pc=yt&cm=2&hl=en&src=1
+2025-04-26 13:55:26,600 - __main__ - INFO - Status Code: 200
+2025-04-26 13:55:26,600 - __main__ - INFO - Detected YouTube consent page - proceeding with availability check
+2025-04-26 13:55:26,612 - werkzeug - INFO - 127.0.0.1 - - [26/Apr/2025 13:55:26] "POST / HTTP/1.1" 200 -
+2025-04-26 13:55:46,252 - __main__ - INFO - Checking GitHub for jaic.saji_04
+2025-04-26 13:55:46,253 - __main__ - INFO - Checking Twitter for jaic.saji_04
+2025-04-26 13:55:48,705 - __main__ - INFO - Requesting https://x.com/jaic.saji_04 with User-Agent: Mozilla/5.0 (Windows NT 10.0; ...
+2025-04-26 13:55:48,947 - __main__ - INFO - Final URL: https://x.com/jaic.saji_04
+2025-04-26 13:55:48,947 - __main__ - INFO - Status Code: 200
+2025-04-26 13:55:48,950 - __main__ - INFO - Checking Instagram for jaic.saji_04
+2025-04-26 13:55:51,146 - __main__ - INFO - Requesting https://www.instagram.com/jaic.saji_04/ with User-Agent: Mozilla/5.0 (Windows NT 10.0; ...
+2025-04-26 13:55:51,518 - __main__ - INFO - Final URL: https://www.instagram.com/jaic.saji_04/
+2025-04-26 13:55:51,518 - __main__ - INFO - Status Code: 200
+2025-04-26 13:55:51,532 - __main__ - INFO - Checking YouTube for jaic.saji_04
+2025-04-26 13:55:54,323 - __main__ - INFO - Requesting https://www.youtube.com/@jaic.saji_04 with User-Agent: Mozilla/5.0 (Windows NT 10.0; ...
+2025-04-26 13:55:54,524 - __main__ - INFO - Final URL: https://consent.youtube.com/m?continue=https%3a%2f%2fwww.youtube.com%2f%40jaic.saji_04%3fcbrd%3d1&gl=gb&m=0&pc=yt&cm=2&hl=en&src=1
+2025-04-26 13:55:54,525 - __main__ - INFO - Status Code: 200
+2025-04-26 13:55:54,525 - __main__ - INFO - Detected YouTube consent page - proceeding with availability check
+2025-04-26 13:55:54,529 - werkzeug - INFO - 127.0.0.1 - - [26/Apr/2025 13:55:54] "POST / HTTP/1.1" 200 -
+2025-04-26 13:56:04,799 - __main__ - INFO - Checking GitHub for vindaloo-boy
+2025-04-26 13:56:06,006 - __main__ - INFO - Requesting https://github.com/vindaloo-boy with User-Agent: Mozilla/5.0 (Windows NT 10.0; ...
+2025-04-26 13:56:06,247 - __main__ - INFO - Final URL: https://github.com/vindaloo-boy
+2025-04-26 13:56:06,247 - __main__ - INFO - Status Code: 404
+2025-04-26 13:56:06,247 - __main__ - INFO - Checking Twitter for vindaloo-boy
+2025-04-26 13:56:07,505 - __main__ - INFO - Requesting https://x.com/vindaloo-boy with User-Agent: Mozilla/5.0 (Windows NT 10.0; ...
+2025-04-26 13:56:07,730 - __main__ - INFO - Final URL: https://x.com/vindaloo-boy
+2025-04-26 13:56:07,731 - __main__ - INFO - Status Code: 200
+2025-04-26 13:56:07,734 - __main__ - INFO - Checking Instagram for vindaloo-boy
+2025-04-26 13:56:09,220 - __main__ - INFO - Requesting https://www.instagram.com/vindaloo-boy/ with User-Agent: Mozilla/5.0 (iPhone; CPU iPhon...
+2025-04-26 13:56:09,484 - __main__ - INFO - Final URL: https://www.instagram.com/vindaloo-boy/
+2025-04-26 13:56:09,485 - __main__ - INFO - Status Code: 200
+2025-04-26 13:56:09,500 - __main__ - INFO - Checking YouTube for vindaloo-boy
+2025-04-26 13:56:12,124 - __main__ - INFO - Requesting https://www.youtube.com/@vindaloo-boy with User-Agent: Mozilla/5.0 (Windows NT 10.0; ...
+2025-04-26 13:56:12,333 - __main__ - INFO - Final URL: https://consent.youtube.com/m?continue=https%3a%2f%2fwww.youtube.com%2f%40vindaloo-boy%3fcbrd%3d1&gl=gb&m=0&pc=yt&cm=2&hl=en&src=1
+2025-04-26 13:56:12,334 - __main__ - INFO - Status Code: 200
+2025-04-26 13:56:12,334 - __main__ - INFO - Detected YouTube consent page - proceeding with availability check
+2025-04-26 13:56:12,339 - werkzeug - INFO - 127.0.0.1 - - [26/Apr/2025 13:56:12] "POST / HTTP/1.1" 200 -
+2025-04-27 13:39:20,177 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-27 13:39:20,178 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-27 13:39:20,186 - werkzeug - INFO -  * Restarting with stat
+2025-04-27 13:39:21,080 - werkzeug - WARNING -  * Debugger is active!
+2025-04-27 13:39:21,093 - werkzeug - INFO -  * Debugger PIN: 826-472-098
+2025-04-27 13:39:23,819 - werkzeug - INFO - 127.0.0.1 - - [27/Apr/2025 13:39:23] "GET / HTTP/1.1" 200 -
+2025-04-27 13:39:30,526 - __main__ - INFO - Checking GitHub for liambiju.19
+2025-04-27 13:39:30,527 - __main__ - INFO - Checking Twitter for liambiju.19
+2025-04-27 13:39:32,881 - __main__ - INFO - Requesting https://x.com/liambiju.19 with User-Agent: Mozilla/5.0 (Macintosh; Intel ...
+2025-04-27 13:39:33,165 - __main__ - INFO - Final URL: https://x.com/liambiju.19
+2025-04-27 13:39:33,165 - __main__ - INFO - Status Code: 200
+2025-04-27 13:39:33,168 - __main__ - INFO - Checking Instagram for liambiju.19
+2025-04-27 13:39:35,132 - __main__ - INFO - Requesting https://www.instagram.com/liambiju.19/ with User-Agent: Mozilla/5.0 (Windows NT 10.0; ...
+2025-04-27 13:39:35,505 - __main__ - INFO - Final URL: https://www.instagram.com/liambiju.19/
+2025-04-27 13:39:35,506 - __main__ - INFO - Status Code: 200
+2025-04-27 13:39:35,520 - __main__ - INFO - Checking YouTube for liambiju.19
+2025-04-27 13:39:36,631 - __main__ - INFO - Requesting https://www.youtube.com/@liambiju.19 with User-Agent: Mozilla/5.0 (Windows NT 10.0; ...
+2025-04-27 13:39:36,850 - __main__ - INFO - Final URL: https://consent.youtube.com/m?continue=https%3a%2f%2fwww.youtube.com%2f%40liambiju.19%3fcbrd%3d1&gl=gb&m=0&pc=yt&cm=2&hl=en&src=1
+2025-04-27 13:39:36,850 - __main__ - INFO - Status Code: 200
+2025-04-27 13:39:36,850 - __main__ - INFO - Detected YouTube consent page - proceeding with availability check
+2025-04-27 13:39:36,854 - werkzeug - INFO - 127.0.0.1 - - [27/Apr/2025 13:39:36] "POST / HTTP/1.1" 200 -
+2025-04-27 13:40:02,134 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-27 13:40:02,135 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-27 13:40:02,137 - werkzeug - INFO -  * Restarting with stat
+2025-04-27 13:40:03,075 - werkzeug - WARNING -  * Debugger is active!
+2025-04-27 13:40:03,084 - werkzeug - INFO -  * Debugger PIN: 826-472-098
+2025-04-27 13:40:05,795 - __main__ - INFO - Checking GitHub for liambiju.19
+2025-04-27 13:40:06,823 - __main__ - INFO - Requesting https://github.com/liambiju.19 with User-Agent: Mozilla/5.0 (Macintosh; Intel ...
+2025-04-27 13:40:07,047 - __main__ - INFO - Final URL: https://github.com/liambiju.19
+2025-04-27 13:40:07,047 - __main__ - INFO - Status Code: 404
+2025-04-27 13:40:07,047 - __main__ - INFO - Checking Twitter for liambiju.19
+2025-04-27 13:40:08,176 - __main__ - INFO - Requesting https://x.com/liambiju.19 with User-Agent: Mozilla/5.0 (iPhone; CPU iPhon...
+2025-04-27 13:40:08,416 - __main__ - INFO - Final URL: https://x.com/liambiju.19
+2025-04-27 13:40:08,416 - __main__ - INFO - Status Code: 200
+2025-04-27 13:40:08,419 - __main__ - INFO - Checking Instagram for liambiju.19
+2025-04-27 13:40:10,927 - __main__ - INFO - Requesting https://www.instagram.com/liambiju.19/ with User-Agent: Mozilla/5.0 (Macintosh; Intel ...
+2025-04-27 13:40:11,255 - __main__ - INFO - Final URL: https://www.instagram.com/liambiju.19/
+2025-04-27 13:40:11,255 - __main__ - INFO - Status Code: 200
+2025-04-27 13:40:11,284 - __main__ - INFO - Checking YouTube for liambiju.19
+2025-04-27 13:40:13,581 - __main__ - INFO - Requesting https://www.youtube.com/@liambiju.19 with User-Agent: Mozilla/5.0 (Macintosh; Intel ...
+2025-04-27 13:40:13,798 - __main__ - INFO - Final URL: https://consent.youtube.com/m?continue=https%3a%2f%2fwww.youtube.com%2f%40liambiju.19%3fcbrd%3d1&gl=gb&m=0&pc=yt&cm=2&hl=en&src=1
+2025-04-27 13:40:13,799 - __main__ - INFO - Status Code: 200
+2025-04-27 13:40:13,799 - __main__ - INFO - Detected YouTube consent page - proceeding with availability check
+2025-04-27 13:40:13,817 - werkzeug - INFO - 127.0.0.1 - - [27/Apr/2025 13:40:13] "POST / HTTP/1.1" 200 -
+2025-04-27 13:40:35,165 - __main__ - INFO - Checking GitHub for jaic.saji_04
+2025-04-27 13:40:37,226 - __main__ - INFO - Requesting https://github.com/jaic.saji_04 with User-Agent: Mozilla/5.0 (iPhone; CPU iPhon...
+2025-04-27 13:40:37,379 - __main__ - INFO - Final URL: https://github.com/jaic.saji_04
+2025-04-27 13:40:37,381 - __main__ - INFO - Status Code: 406
+2025-04-27 13:40:37,381 - __main__ - INFO - Checking Twitter for jaic.saji_04
+2025-04-27 13:40:40,261 - __main__ - INFO - Requesting https://x.com/jaic.saji_04 with User-Agent: Mozilla/5.0 (Macintosh; Intel ...
+2025-04-27 13:40:40,518 - __main__ - INFO - Final URL: https://x.com/jaic.saji_04
+2025-04-27 13:40:40,518 - __main__ - INFO - Status Code: 200
+2025-04-27 13:40:40,521 - __main__ - INFO - Checking Instagram for jaic.saji_04
+2025-04-27 13:40:42,046 - __main__ - INFO - Requesting https://www.instagram.com/jaic.saji_04/ with User-Agent: Mozilla/5.0 (X11; Linux x86_64...
+2025-04-27 13:40:42,742 - __main__ - INFO - Final URL: https://www.instagram.com/jaic.saji_04/
+2025-04-27 13:40:42,743 - __main__ - INFO - Status Code: 200
+2025-04-27 13:40:42,758 - __main__ - INFO - Checking YouTube for jaic.saji_04
+2025-04-27 13:40:43,792 - __main__ - INFO - Requesting https://www.youtube.com/@jaic.saji_04 with User-Agent: Mozilla/5.0 (Windows NT 10.0; ...
+2025-04-27 13:40:44,003 - __main__ - INFO - Final URL: https://consent.youtube.com/m?continue=https%3a%2f%2fwww.youtube.com%2f%40jaic.saji_04%3fcbrd%3d1&gl=gb&m=0&pc=yt&cm=2&hl=en&src=1
+2025-04-27 13:40:44,004 - __main__ - INFO - Status Code: 200
+2025-04-27 13:40:44,004 - __main__ - INFO - Detected YouTube consent page - proceeding with availability check
+2025-04-27 13:40:44,008 - werkzeug - INFO - 127.0.0.1 - - [27/Apr/2025 13:40:44] "POST / HTTP/1.1" 200 -
+2025-04-28 21:18:03,540 - __main__ - INFO - Checking GitHub for liambiju.19
+2025-04-28 21:18:05,679 - __main__ - INFO - Requesting https://github.com/liambiju.19 with User-Agent: Mozilla/5.0 (iPhone; CPU iPhon...
+2025-04-28 21:18:05,948 - __main__ - INFO - Final URL: https://github.com/liambiju.19
+2025-04-28 21:18:05,948 - __main__ - INFO - Status Code: 404
+2025-04-28 21:18:05,948 - __main__ - INFO - Checking Twitter for liambiju.19
+2025-04-28 21:18:08,204 - __main__ - INFO - Requesting https://x.com/liambiju.19 with User-Agent: Mozilla/5.0 (Macintosh; Intel ...
+2025-04-28 21:18:08,429 - __main__ - INFO - Final URL: https://x.com/liambiju.19
+2025-04-28 21:18:08,429 - __main__ - INFO - Status Code: 200
+2025-04-28 21:18:08,432 - __main__ - INFO - Checking Instagram for liambiju.19
+2025-04-28 21:18:11,068 - __main__ - INFO - Requesting https://www.instagram.com/liambiju.19/ with User-Agent: Mozilla/5.0 (X11; Linux x86_64...
+2025-04-28 21:18:11,493 - __main__ - INFO - Final URL: https://www.instagram.com/liambiju.19/
+2025-04-28 21:18:11,493 - __main__ - INFO - Status Code: 200
+2025-04-28 21:18:11,507 - __main__ - INFO - Checking YouTube for liambiju.19
+2025-04-28 21:18:14,447 - __main__ - INFO - Requesting https://www.youtube.com/@liambiju.19 with User-Agent: Mozilla/5.0 (Macintosh; Intel ...
+2025-04-28 21:18:14,668 - __main__ - INFO - Final URL: https://consent.youtube.com/m?continue=https%3a%2f%2fwww.youtube.com%2f%40liambiju.19%3fcbrd%3d1&gl=gb&m=0&pc=yt&cm=2&hl=en&src=1
+2025-04-28 21:18:14,669 - __main__ - INFO - Status Code: 200
+2025-04-28 21:18:14,669 - __main__ - INFO - Detected YouTube consent page - proceeding with availability check
+2025-04-28 21:18:14,678 - werkzeug - INFO - 127.0.0.1 - - [28/Apr/2025 21:18:14] "POST / HTTP/1.1" 200 -
+2025-04-28 21:37:26,729 - __main__ - INFO - Checking GitHub for saivaruna
+2025-04-28 21:37:29,142 - __main__ - INFO - Requesting https://github.com/saivaruna with User-Agent: Mozilla/5.0 (Windows NT 10.0; ...
+2025-04-28 21:37:29,411 - __main__ - INFO - Final URL: https://github.com/saivaruna
+2025-04-28 21:37:29,411 - __main__ - INFO - Status Code: 200
+2025-04-28 21:37:29,417 - __main__ - INFO - Checking Twitter for saivaruna
+2025-04-28 21:37:32,255 - __main__ - INFO - Requesting https://x.com/saivaruna with User-Agent: Mozilla/5.0 (X11; Linux x86_64...
+2025-04-28 21:37:32,493 - __main__ - INFO - Final URL: https://x.com/saivaruna
+2025-04-28 21:37:32,493 - __main__ - INFO - Status Code: 200
+2025-04-28 21:37:32,496 - __main__ - INFO - Checking Instagram for saivaruna
+2025-04-28 21:37:34,368 - __main__ - INFO - Requesting https://www.instagram.com/saivaruna/ with User-Agent: Mozilla/5.0 (Windows NT 10.0; ...
+2025-04-28 21:37:34,646 - __main__ - INFO - Final URL: https://www.instagram.com/saivaruna/
+2025-04-28 21:37:34,647 - __main__ - INFO - Status Code: 200
+2025-04-28 21:37:34,660 - __main__ - INFO - Checking YouTube for saivaruna
+2025-04-28 21:37:35,818 - __main__ - INFO - Requesting https://www.youtube.com/@saivaruna with User-Agent: Mozilla/5.0 (X11; Linux x86_64...
+2025-04-28 21:37:36,055 - __main__ - INFO - Final URL: https://consent.youtube.com/m?continue=https%3a%2f%2fwww.youtube.com%2f%40saivaruna%3fcbrd%3d1&gl=gb&m=0&pc=yt&cm=2&hl=en&src=1
+2025-04-28 21:37:36,055 - __main__ - INFO - Status Code: 200
+2025-04-28 21:37:36,055 - __main__ - INFO - Detected YouTube consent page - proceeding with availability check
+2025-04-28 21:37:36,059 - werkzeug - INFO - 127.0.0.1 - - [28/Apr/2025 21:37:36] "POST / HTTP/1.1" 200 -
+2025-04-28 21:38:31,373 - __main__ - INFO - Checking GitHub for naym.ulislam
+2025-04-28 21:38:33,039 - __main__ - INFO - Requesting https://github.com/naym.ulislam with User-Agent: Mozilla/5.0 (X11; Linux x86_64...
+2025-04-28 21:38:33,178 - __main__ - INFO - Final URL: https://github.com/naym.ulislam
+2025-04-28 21:38:33,178 - __main__ - INFO - Status Code: 406
+2025-04-28 21:38:33,178 - __main__ - INFO - Checking Twitter for naym.ulislam
+2025-04-28 21:38:35,373 - __main__ - INFO - Requesting https://x.com/naym.ulislam with User-Agent: Mozilla/5.0 (Windows NT 10.0; ...
+2025-04-28 21:38:35,598 - __main__ - INFO - Final URL: https://x.com/naym.ulislam
+2025-04-28 21:38:35,598 - __main__ - INFO - Status Code: 200
+2025-04-28 21:38:35,601 - __main__ - INFO - Checking Instagram for naym.ulislam
+2025-04-28 21:38:37,156 - __main__ - INFO - Requesting https://www.instagram.com/naym.ulislam/ with User-Agent: Mozilla/5.0 (iPhone; CPU iPhon...
+2025-04-28 21:38:37,562 - __main__ - INFO - Final URL: https://www.instagram.com/naym.ulislam/
+2025-04-28 21:38:37,562 - __main__ - INFO - Status Code: 200
+2025-04-28 21:38:37,579 - __main__ - INFO - Checking YouTube for naym.ulislam
+2025-04-28 21:38:40,181 - __main__ - INFO - Requesting https://www.youtube.com/@naym.ulislam with User-Agent: Mozilla/5.0 (iPhone; CPU iPhon...
+2025-04-28 21:38:40,461 - __main__ - INFO - Final URL: https://consent.youtube.com/m?continue=https%3a%2f%2fm.youtube.com%2f%40naym.ulislam%3fcbrd%3d1&gl=gb&m=1&pc=yt&cm=2&hl=en&src=1
+2025-04-28 21:38:40,461 - __main__ - INFO - Status Code: 200
+2025-04-28 21:38:40,461 - __main__ - INFO - Detected YouTube consent page - proceeding with availability check
+2025-04-28 21:38:40,464 - werkzeug - INFO - 127.0.0.1 - - [28/Apr/2025 21:38:40] "POST / HTTP/1.1" 200 -
+2025-04-28 21:40:13,536 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-28 21:40:13,537 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-28 21:40:13,545 - werkzeug - INFO -  * Restarting with stat
+2025-04-28 21:40:14,427 - werkzeug - WARNING -  * Debugger is active!
+2025-04-28 21:40:14,438 - werkzeug - INFO -  * Debugger PIN: 826-472-098
+2025-04-28 21:40:18,046 - werkzeug - INFO - 127.0.0.1 - - [28/Apr/2025 21:40:18] "GET / HTTP/1.1" 200 -
+2025-04-28 21:40:21,769 - __main__ - INFO - Checking GitHub for liambiju.19
+2025-04-28 21:40:22,801 - __main__ - INFO - Requesting https://github.com/liambiju.19 with User-Agent: Mozilla/5.0 (Windows NT 10.0; ...
+2025-04-28 21:40:22,964 - __main__ - INFO - Final URL: https://github.com/liambiju.19
+2025-04-28 21:40:22,965 - __main__ - INFO - Status Code: 404
+2025-04-28 21:40:22,965 - __main__ - INFO - Checking Twitter for liambiju.19
+2025-04-28 21:40:25,888 - __main__ - INFO - Requesting https://x.com/liambiju.19 with User-Agent: Mozilla/5.0 (X11; Linux x86_64...
+2025-04-28 21:40:26,137 - __main__ - INFO - Final URL: https://x.com/liambiju.19
+2025-04-28 21:40:26,137 - __main__ - INFO - Status Code: 200
+2025-04-28 21:40:26,140 - __main__ - INFO - Checking Instagram for liambiju.19
+2025-04-28 21:40:28,136 - __main__ - INFO - Requesting https://www.instagram.com/liambiju.19/ with User-Agent: Mozilla/5.0 (X11; Linux x86_64...
+2025-04-28 21:40:28,363 - __main__ - INFO - Final URL: https://www.instagram.com/liambiju.19/
+2025-04-28 21:40:28,363 - __main__ - INFO - Status Code: 200
+2025-04-28 21:40:28,378 - __main__ - INFO - Checking YouTube for liambiju.19
+2025-04-28 21:40:29,539 - __main__ - INFO - Requesting https://www.youtube.com/@liambiju.19 with User-Agent: Mozilla/5.0 (X11; Linux x86_64...
+2025-04-28 21:40:29,769 - __main__ - INFO - Final URL: https://consent.youtube.com/m?continue=https%3a%2f%2fwww.youtube.com%2f%40liambiju.19%3fcbrd%3d1&gl=gb&m=0&pc=yt&cm=2&hl=en&src=1
+2025-04-28 21:40:29,769 - __main__ - INFO - Status Code: 200
+2025-04-28 21:40:29,769 - __main__ - INFO - Detected YouTube consent page - proceeding with availability check
+2025-04-28 21:40:29,773 - werkzeug - INFO - 127.0.0.1 - - [28/Apr/2025 21:40:29] "POST / HTTP/1.1" 200 -
+2025-04-28 21:43:03,113 - __main__ - INFO - Checking GitHub for saivaruna
+2025-04-28 21:43:05,592 - __main__ - INFO - Requesting https://github.com/saivaruna with User-Agent: Mozilla/5.0 (Windows NT 10.0; ...
+2025-04-28 21:43:05,890 - __main__ - INFO - Final URL: https://github.com/saivaruna
+2025-04-28 21:43:05,890 - __main__ - INFO - Status Code: 200
+2025-04-28 21:43:05,895 - __main__ - INFO - Checking Twitter for saivaruna
+2025-04-28 21:43:07,222 - __main__ - INFO - Requesting https://x.com/saivaruna with User-Agent: Mozilla/5.0 (Macintosh; Intel ...
+2025-04-28 21:43:07,445 - __main__ - INFO - Final URL: https://x.com/saivaruna
+2025-04-28 21:43:07,446 - __main__ - INFO - Status Code: 200
+2025-04-28 21:43:07,449 - __main__ - INFO - Checking Instagram for saivaruna
+2025-04-28 21:43:09,910 - __main__ - INFO - Requesting https://www.instagram.com/saivaruna/ with User-Agent: Mozilla/5.0 (Windows NT 10.0; ...
+2025-04-28 21:43:10,142 - __main__ - INFO - Final URL: https://www.instagram.com/saivaruna/
+2025-04-28 21:43:10,142 - __main__ - INFO - Status Code: 200
+2025-04-28 21:43:10,156 - __main__ - INFO - Checking YouTube for saivaruna
+2025-04-28 21:43:12,256 - __main__ - INFO - Requesting https://www.youtube.com/@saivaruna with User-Agent: Mozilla/5.0 (X11; Linux x86_64...
+2025-04-28 21:43:12,474 - __main__ - INFO - Final URL: https://consent.youtube.com/m?continue=https%3a%2f%2fwww.youtube.com%2f%40saivaruna%3fcbrd%3d1&gl=gb&m=0&pc=yt&cm=2&hl=en&src=1
+2025-04-28 21:43:12,474 - __main__ - INFO - Status Code: 200
+2025-04-28 21:43:12,475 - __main__ - INFO - Detected YouTube consent page - proceeding with availability check
+2025-04-28 21:43:12,479 - werkzeug - INFO - 127.0.0.1 - - [28/Apr/2025 21:43:12] "POST / HTTP/1.1" 200 -
+2025-04-28 21:46:42,010 - __main__ - INFO - Checking GitHub for liambiju.19
+2025-04-28 21:46:43,233 - __main__ - INFO - Requesting https://github.com/liambiju.19 with User-Agent: Mozilla/5.0 (Windows NT 10.0; ...
+2025-04-28 21:46:43,384 - __main__ - INFO - Final URL: https://github.com/liambiju.19
+2025-04-28 21:46:43,384 - __main__ - INFO - Status Code: 404
+2025-04-28 21:46:43,384 - __main__ - INFO - Checking Twitter for liambiju.19
+2025-04-28 21:46:46,332 - __main__ - INFO - Requesting https://x.com/liambiju.19 with User-Agent: Mozilla/5.0 (X11; Linux x86_64...
+2025-04-28 21:46:46,611 - __main__ - INFO - Final URL: https://x.com/liambiju.19
+2025-04-28 21:46:46,612 - __main__ - INFO - Status Code: 200
+2025-04-28 21:46:46,616 - __main__ - INFO - Checking Instagram for liambiju.19
+2025-04-28 21:46:48,348 - __main__ - INFO - Requesting https://www.instagram.com/liambiju.19/ with User-Agent: Mozilla/5.0 (X11; Linux x86_64...
+2025-04-28 21:46:48,587 - __main__ - INFO - Final URL: https://www.instagram.com/liambiju.19/
+2025-04-28 21:46:48,587 - __main__ - INFO - Status Code: 200
+2025-04-28 21:46:48,602 - __main__ - INFO - Checking YouTube for liambiju.19
+2025-04-28 21:46:50,276 - __main__ - INFO - Requesting https://www.youtube.com/@liambiju.19 with User-Agent: Mozilla/5.0 (X11; Linux x86_64...
+2025-04-28 21:46:50,515 - __main__ - INFO - Final URL: https://consent.youtube.com/m?continue=https%3a%2f%2fwww.youtube.com%2f%40liambiju.19%3fcbrd%3d1&gl=gb&m=0&pc=yt&cm=2&hl=en&src=1
+2025-04-28 21:46:50,516 - __main__ - INFO - Status Code: 200
+2025-04-28 21:46:50,516 - __main__ - INFO - Detected YouTube consent page - proceeding with availability check
+2025-04-28 21:46:50,519 - werkzeug - INFO - 127.0.0.1 - - [28/Apr/2025 21:46:50] "POST / HTTP/1.1" 200 -
+2025-04-29 21:59:05,041 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-29 21:59:05,041 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-29 21:59:05,051 - werkzeug - INFO -  * Restarting with stat
+2025-04-29 21:59:05,977 - werkzeug - WARNING -  * Debugger is active!
+2025-04-29 21:59:05,992 - werkzeug - INFO -  * Debugger PIN: 826-472-098
+2025-04-29 21:59:10,325 - werkzeug - INFO - 127.0.0.1 - - [29/Apr/2025 21:59:10] "GET / HTTP/1.1" 200 -
+2025-04-29 21:59:16,591 - __main__ - INFO - Checking GitHub for liambiju.19
+2025-04-29 21:59:19,375 - __main__ - INFO - Requesting https://github.com/liambiju.19 with User-Agent: Mozilla/5.0 (Windows NT 10.0; ...
+2025-04-29 21:59:19,555 - __main__ - INFO - Final URL: https://github.com/liambiju.19
+2025-04-29 21:59:19,557 - __main__ - INFO - Status Code: 404
+2025-04-29 21:59:19,557 - __main__ - INFO - Checking Twitter for liambiju.19
+2025-04-29 21:59:21,789 - __main__ - INFO - Requesting https://x.com/liambiju.19 with User-Agent: Mozilla/5.0 (Windows NT 10.0; ...
+2025-04-29 21:59:22,059 - __main__ - INFO - Final URL: https://x.com/liambiju.19
+2025-04-29 21:59:22,059 - __main__ - INFO - Status Code: 200
+2025-04-29 21:59:22,064 - __main__ - INFO - Checking Instagram for liambiju.19
+2025-04-29 21:59:23,527 - __main__ - INFO - Requesting https://www.instagram.com/liambiju.19/ with User-Agent: Mozilla/5.0 (Windows NT 10.0; ...
+2025-04-29 21:59:24,023 - __main__ - INFO - Final URL: https://www.instagram.com/liambiju.19/
+2025-04-29 21:59:24,023 - __main__ - INFO - Status Code: 200
+2025-04-29 21:59:24,039 - __main__ - INFO - Checking YouTube for liambiju.19
+2025-04-29 21:59:26,606 - __main__ - INFO - Requesting https://www.youtube.com/@liambiju.19 with User-Agent: Mozilla/5.0 (Windows NT 10.0; ...
+2025-04-29 21:59:26,822 - __main__ - INFO - Final URL: https://consent.youtube.com/m?continue=https%3a%2f%2fwww.youtube.com%2f%40liambiju.19%3fcbrd%3d1&gl=gb&m=0&pc=yt&cm=2&hl=en&src=1
+2025-04-29 21:59:26,822 - __main__ - INFO - Status Code: 200
+2025-04-29 21:59:26,823 - __main__ - INFO - Detected YouTube consent page - proceeding with availability check
+2025-04-29 21:59:26,827 - werkzeug - INFO - 127.0.0.1 - - [29/Apr/2025 21:59:26] "POST / HTTP/1.1" 200 -
+2025-05-09 00:35:34,844 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-09 00:35:34,844 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-09 00:35:34,855 - werkzeug - INFO -  * Restarting with stat
+2025-05-09 00:35:35,843 - werkzeug - WARNING -  * Debugger is active!
+2025-05-09 00:35:35,853 - werkzeug - INFO -  * Debugger PIN: 779-939-726
+2025-05-09 00:35:42,738 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 00:35:42] "GET / HTTP/1.1" 200 -
+2025-05-09 00:35:42,943 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 00:35:42] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-05-09 00:35:47,604 - __main__ - INFO - Checking GitHub for liambiju.19
+2025-05-09 00:35:48,697 - __main__ - INFO - Requesting https://github.com/liambiju.19 with User-Agent: Mozilla/5.0 (Windows NT 10.0; ...
+2025-05-09 00:35:48,911 - __main__ - INFO - Final URL: https://github.com/liambiju.19
+2025-05-09 00:35:48,912 - __main__ - INFO - Status Code: 404
+2025-05-09 00:35:48,912 - __main__ - INFO - Checking Twitter for liambiju.19
+2025-05-09 00:35:51,807 - __main__ - INFO - Requesting https://x.com/liambiju.19 with User-Agent: Mozilla/5.0 (iPhone; CPU iPhon...
+2025-05-09 00:35:52,082 - __main__ - INFO - Final URL: https://x.com/liambiju.19
+2025-05-09 00:35:52,082 - __main__ - INFO - Status Code: 200
+2025-05-09 00:35:52,087 - __main__ - INFO - Checking Instagram for liambiju.19
+2025-05-09 00:35:54,552 - __main__ - INFO - Requesting https://www.instagram.com/liambiju.19/ with User-Agent: Mozilla/5.0 (Windows NT 10.0; ...
+2025-05-09 00:35:55,350 - __main__ - INFO - Final URL: https://www.instagram.com/liambiju.19/
+2025-05-09 00:35:55,350 - __main__ - INFO - Status Code: 200
+2025-05-09 00:35:55,364 - __main__ - INFO - Checking YouTube for liambiju.19
+2025-05-09 00:35:57,419 - __main__ - INFO - Requesting https://www.youtube.com/@liambiju.19 with User-Agent: Mozilla/5.0 (Windows NT 10.0; ...
+2025-05-09 00:35:57,659 - __main__ - INFO - Final URL: https://consent.youtube.com/m?continue=https%3a%2f%2fwww.youtube.com%2f%40liambiju.19%3fcbrd%3d1&gl=gb&m=0&pc=yt&cm=2&hl=en&src=1
+2025-05-09 00:35:57,660 - __main__ - INFO - Status Code: 200
+2025-05-09 00:35:57,660 - __main__ - INFO - Detected YouTube consent page - proceeding with availability check
+2025-05-09 00:35:57,663 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 00:35:57] "POST / HTTP/1.1" 200 -
+2025-05-09 00:36:15,673 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 00:36:15] "GET /download HTTP/1.1" 200 -
+2025-05-09 00:48:32,818 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-09 00:48:32,818 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-09 00:48:32,820 - werkzeug - INFO -  * Restarting with stat
+2025-05-09 00:48:33,772 - werkzeug - WARNING -  * Debugger is active!
+2025-05-09 00:48:33,781 - werkzeug - INFO -  * Debugger PIN: 779-939-726
+2025-05-09 00:48:39,845 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 00:48:39] "GET / HTTP/1.1" 200 -
+2025-05-09 00:48:46,252 - __main__ - INFO - Checking GitHub for liambiju.19
+2025-05-09 00:48:49,082 - __main__ - INFO - Requesting https://github.com/liambiju.19 with User-Agent: Mozilla/5.0 (Windows NT 10.0; ...
+2025-05-09 00:48:49,249 - __main__ - INFO - Final URL: https://github.com/liambiju.19
+2025-05-09 00:48:49,249 - __main__ - INFO - Status Code: 404
+2025-05-09 00:48:49,249 - __main__ - INFO - Checking Twitter for liambiju.19
+2025-05-09 00:48:50,619 - __main__ - INFO - Requesting https://x.com/liambiju.19 with User-Agent: Mozilla/5.0 (Macintosh; Intel ...
+2025-05-09 00:48:50,889 - __main__ - INFO - Final URL: https://x.com/liambiju.19
+2025-05-09 00:48:50,889 - __main__ - INFO - Status Code: 200
+2025-05-09 00:48:50,893 - __main__ - INFO - Checking Instagram for liambiju.19
+2025-05-09 00:48:52,757 - __main__ - INFO - Requesting https://www.instagram.com/liambiju.19/ with User-Agent: Mozilla/5.0 (Macintosh; Intel ...
+2025-05-09 00:48:53,464 - __main__ - INFO - Final URL: https://www.instagram.com/liambiju.19/
+2025-05-09 00:48:53,464 - __main__ - INFO - Status Code: 200
+2025-05-09 00:48:53,484 - __main__ - INFO - Checking Facebook for liambiju.19
+2025-05-09 00:48:56,260 - __main__ - INFO - Requesting https://www.facebook.com/liambiju.19 with User-Agent: Mozilla/5.0 (Windows NT 10.0; ...
+2025-05-09 00:48:56,458 - __main__ - INFO - Final URL: https://www.facebook.com/liambiju.19
+2025-05-09 00:48:56,458 - __main__ - INFO - Status Code: 400
+2025-05-09 00:48:56,459 - __main__ - INFO - Checking LinkedIn for liambiju.19
+2025-05-09 00:48:58,517 - __main__ - INFO - Requesting https://www.linkedin.com/in/liambiju.19 with User-Agent: Mozilla/5.0 (iPhone; CPU iPhon...
+2025-05-09 00:48:58,895 - __main__ - INFO - Final URL: https://www.linkedin.com/in/liambiju.19
+2025-05-09 00:48:58,896 - __main__ - INFO - Status Code: 999
+2025-05-09 00:48:58,896 - __main__ - INFO - Checking TikTok for liambiju.19
+2025-05-09 00:49:00,932 - __main__ - INFO - Requesting https://www.tiktok.com/@liambiju.19 with User-Agent: Mozilla/5.0 (Windows NT 10.0; ...
+2025-05-09 00:49:01,322 - __main__ - INFO - Final URL: https://www.tiktok.com/@liambiju.19
+2025-05-09 00:49:01,322 - __main__ - INFO - Status Code: 200
+2025-05-09 00:49:01,323 - __main__ - INFO - Checking Pinterest for liambiju.19
+2025-05-09 00:49:03,483 - __main__ - INFO - Requesting https://www.pinterest.com/liambiju.19/ with User-Agent: Mozilla/5.0 (Macintosh; Intel ...
+2025-05-09 00:49:03,904 - __main__ - INFO - Final URL: https://www.pinterest.com/liambiju.19/
+2025-05-09 00:49:03,904 - __main__ - INFO - Status Code: 200
+2025-05-09 00:49:03,906 - __main__ - INFO - Checking Snapchat for liambiju.19
+2025-05-09 00:49:06,016 - __main__ - INFO - Requesting https://www.snapchat.com/add/liambiju.19 with User-Agent: Mozilla/5.0 (X11; Linux x86_64...
+2025-05-09 00:49:06,198 - __main__ - INFO - Final URL: https://www.snapchat.com/add/liambiju.19
+2025-05-09 00:49:06,198 - __main__ - INFO - Status Code: 404
+2025-05-09 00:49:06,199 - __main__ - INFO - Checking Threads for liambiju.19
+2025-05-09 00:49:08,941 - __main__ - INFO - Requesting https://www.threads.net/@liambiju.19 with User-Agent: Mozilla/5.0 (iPhone; CPU iPhon...
+2025-05-09 00:49:09,570 - __main__ - INFO - Final URL: https://www.threads.com/@liambiju.19
+2025-05-09 00:49:09,570 - __main__ - INFO - Status Code: 200
+2025-05-09 00:49:09,580 - __main__ - INFO - Checking Telegram for liambiju.19
+2025-05-09 00:49:11,994 - __main__ - INFO - Requesting https://t.me/liambiju.19 with User-Agent: Mozilla/5.0 (Windows NT 10.0; ...
+2025-05-09 00:49:12,166 - __main__ - INFO - Final URL: https://telegram.org/
+2025-05-09 00:49:12,166 - __main__ - INFO - Status Code: 200
+2025-05-09 00:49:12,171 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 00:49:12] "POST / HTTP/1.1" 200 -
+2025-05-09 00:50:07,590 - __main__ - INFO - Checking GitHub for vindalooboy
+2025-05-09 00:50:10,326 - __main__ - INFO - Requesting https://github.com/vindalooboy with User-Agent: Mozilla/5.0 (Macintosh; Intel ...
+2025-05-09 00:50:10,616 - __main__ - INFO - Final URL: https://github.com/vindalooboy
+2025-05-09 00:50:10,617 - __main__ - INFO - Status Code: 200
+2025-05-09 00:50:10,623 - __main__ - INFO - Checking Twitter for vindalooboy
+2025-05-09 00:50:12,816 - __main__ - INFO - Requesting https://x.com/vindalooboy with User-Agent: Mozilla/5.0 (Windows NT 10.0; ...
+2025-05-09 00:50:13,064 - __main__ - INFO - Final URL: https://x.com/vindalooboy
+2025-05-09 00:50:13,064 - __main__ - INFO - Status Code: 200
+2025-05-09 00:50:13,067 - __main__ - INFO - Checking Instagram for vindalooboy
+2025-05-09 00:50:14,784 - __main__ - INFO - Requesting https://www.instagram.com/vindalooboy/ with User-Agent: Mozilla/5.0 (Windows NT 10.0; ...
+2025-05-09 00:50:15,212 - __main__ - INFO - Final URL: https://www.instagram.com/vindalooboy/
+2025-05-09 00:50:15,212 - __main__ - INFO - Status Code: 200
+2025-05-09 00:50:15,228 - __main__ - INFO - Checking Facebook for vindalooboy
+2025-05-09 00:50:18,217 - __main__ - INFO - Requesting https://www.facebook.com/vindalooboy with User-Agent: Mozilla/5.0 (Macintosh; Intel ...
+2025-05-09 00:50:18,453 - __main__ - INFO - Final URL: https://www.facebook.com/vindalooboy
+2025-05-09 00:50:18,453 - __main__ - INFO - Status Code: 200
+2025-05-09 00:50:18,453 - __main__ - INFO - Checking LinkedIn for vindalooboy
+2025-05-09 00:50:20,730 - __main__ - INFO - Requesting https://www.linkedin.com/in/vindalooboy with User-Agent: Mozilla/5.0 (Macintosh; Intel ...
+2025-05-09 00:50:21,180 - __main__ - INFO - Final URL: https://www.linkedin.com/in/vindalooboy
+2025-05-09 00:50:21,180 - __main__ - INFO - Status Code: 999
+2025-05-09 00:50:21,180 - __main__ - INFO - Checking TikTok for vindalooboy
+2025-05-09 00:50:22,745 - __main__ - INFO - Requesting https://www.tiktok.com/@vindalooboy with User-Agent: Mozilla/5.0 (Macintosh; Intel ...
+2025-05-09 00:50:22,986 - __main__ - INFO - Final URL: https://www.tiktok.com/@vindalooboy
+2025-05-09 00:50:22,987 - __main__ - INFO - Status Code: 200
+2025-05-09 00:50:22,987 - __main__ - INFO - Checking Pinterest for vindalooboy
+2025-05-09 00:50:25,570 - __main__ - INFO - Requesting https://www.pinterest.com/vindalooboy/ with User-Agent: Mozilla/5.0 (iPhone; CPU iPhon...
+2025-05-09 00:50:25,822 - __main__ - INFO - Final URL: https://www.pinterest.com/vindalooboy/
+2025-05-09 00:50:25,822 - __main__ - INFO - Status Code: 200
+2025-05-09 00:50:25,825 - __main__ - INFO - Checking Snapchat for vindalooboy
+2025-05-09 00:50:27,430 - __main__ - INFO - Requesting https://www.snapchat.com/add/vindalooboy with User-Agent: Mozilla/5.0 (Windows NT 10.0; ...
+2025-05-09 00:50:27,625 - __main__ - INFO - Final URL: https://www.snapchat.com/add/vindalooboy
+2025-05-09 00:50:27,625 - __main__ - INFO - Status Code: 404
+2025-05-09 00:50:27,625 - __main__ - INFO - Checking Threads for vindalooboy
+2025-05-09 00:50:30,404 - __main__ - INFO - Requesting https://www.threads.net/@vindalooboy with User-Agent: Mozilla/5.0 (X11; Linux x86_64...
+2025-05-09 00:50:31,138 - __main__ - INFO - Final URL: https://www.threads.com/@vindalooboy
+2025-05-09 00:50:31,139 - __main__ - INFO - Status Code: 200
+2025-05-09 00:50:31,147 - __main__ - INFO - Checking Telegram for vindalooboy
+2025-05-09 00:50:32,318 - __main__ - INFO - Requesting https://t.me/vindalooboy with User-Agent: Mozilla/5.0 (X11; Linux x86_64...
+2025-05-09 00:50:32,391 - __main__ - INFO - Final URL: https://t.me/vindalooboy
+2025-05-09 00:50:32,391 - __main__ - INFO - Status Code: 200
+2025-05-09 00:50:32,395 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 00:50:32] "POST / HTTP/1.1" 200 -
+2025-05-09 00:53:06,008 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-09 00:53:06,009 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-09 00:53:06,011 - werkzeug - INFO -  * Restarting with stat
+2025-05-09 00:53:06,967 - werkzeug - WARNING -  * Debugger is active!
+2025-05-09 00:53:06,975 - werkzeug - INFO -  * Debugger PIN: 779-939-726
+2025-05-09 00:53:09,597 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 00:53:09] "GET / HTTP/1.1" 200 -
+2025-05-09 00:53:11,883 - __main__ - INFO - Checking GitHub for liambiju.19
+2025-05-09 00:53:14,493 - __main__ - INFO - Requesting https://github.com/liambiju.19 with User-Agent: Mozilla/5.0 (Macintosh; Intel ...
+2025-05-09 00:53:14,688 - __main__ - INFO - Final URL: https://github.com/liambiju.19
+2025-05-09 00:53:14,690 - __main__ - INFO - Status Code: 404
+2025-05-09 00:53:14,690 - __main__ - INFO - Checking Twitter for liambiju.19
+2025-05-09 00:53:16,839 - __main__ - INFO - Requesting https://x.com/liambiju.19 with User-Agent: Mozilla/5.0 (Macintosh; Intel ...
+2025-05-09 00:53:17,097 - __main__ - INFO - Final URL: https://x.com/liambiju.19
+2025-05-09 00:53:17,098 - __main__ - INFO - Status Code: 200
+2025-05-09 00:53:17,101 - __main__ - INFO - Checking Instagram for liambiju.19
+2025-05-09 00:53:19,368 - __main__ - INFO - Requesting https://www.instagram.com/liambiju.19/ with User-Agent: Mozilla/5.0 (Windows NT 10.0; ...
+2025-05-09 00:53:20,006 - __main__ - INFO - Final URL: https://www.instagram.com/liambiju.19/
+2025-05-09 00:53:20,006 - __main__ - INFO - Status Code: 200
+2025-05-09 00:53:20,021 - __main__ - INFO - Checking Facebook for liambiju.19
+2025-05-09 00:53:21,711 - __main__ - INFO - Requesting https://www.facebook.com/liambiju.19 with User-Agent: Mozilla/5.0 (iPhone; CPU iPhon...
+2025-05-09 00:53:22,421 - __main__ - INFO - Final URL: https://m.facebook.com/login/?next=https%3a%2f%2fm.facebook.com%2fliambiju.19%3fwtsid%3drdr_0nwwuwmlzvqaxfxta&wtsid=rdr_0nwwuwmlzvqaxfxta&refsrc=deprecated&_rdr
+2025-05-09 00:53:22,421 - __main__ - INFO - Status Code: 200
+2025-05-09 00:53:22,423 - __main__ - INFO - Checking LinkedIn for liambiju.19
+2025-05-09 00:53:23,488 - __main__ - INFO - Requesting https://www.linkedin.com/in/liambiju.19 with User-Agent: Mozilla/5.0 (iPhone; CPU iPhon...
+2025-05-09 00:53:23,857 - __main__ - INFO - Final URL: https://www.linkedin.com/in/liambiju.19
+2025-05-09 00:53:23,858 - __main__ - INFO - Status Code: 999
+2025-05-09 00:53:23,858 - __main__ - INFO - Checking TikTok for liambiju.19
+2025-05-09 00:53:25,533 - __main__ - INFO - Requesting https://www.tiktok.com/@liambiju.19 with User-Agent: Mozilla/5.0 (Windows NT 10.0; ...
+2025-05-09 00:53:25,894 - __main__ - INFO - Final URL: https://www.tiktok.com/@liambiju.19
+2025-05-09 00:53:25,895 - __main__ - INFO - Status Code: 200
+2025-05-09 00:53:25,895 - __main__ - INFO - Checking Pinterest for liambiju.19
+2025-05-09 00:53:27,787 - __main__ - INFO - Requesting https://www.pinterest.com/liambiju.19/ with User-Agent: Mozilla/5.0 (iPhone; CPU iPhon...
+2025-05-09 00:53:28,154 - __main__ - INFO - Final URL: https://www.pinterest.com/liambiju.19/
+2025-05-09 00:53:28,154 - __main__ - INFO - Status Code: 200
+2025-05-09 00:53:28,155 - __main__ - INFO - Checking Snapchat for liambiju.19
+2025-05-09 00:53:30,476 - __main__ - INFO - Requesting https://www.snapchat.com/add/liambiju.19 with User-Agent: Mozilla/5.0 (iPhone; CPU iPhon...
+2025-05-09 00:53:30,659 - __main__ - INFO - Final URL: https://www.snapchat.com/add/liambiju.19
+2025-05-09 00:53:30,659 - __main__ - INFO - Status Code: 404
+2025-05-09 00:53:30,659 - __main__ - INFO - Checking Threads for liambiju.19
+2025-05-09 00:53:32,499 - __main__ - INFO - Requesting https://www.threads.net/@liambiju.19 with User-Agent: Mozilla/5.0 (Windows NT 10.0; ...
+2025-05-09 00:53:33,145 - __main__ - INFO - Final URL: https://www.threads.com/@liambiju.19
+2025-05-09 00:53:33,145 - __main__ - INFO - Status Code: 200
+2025-05-09 00:53:33,151 - __main__ - INFO - Checking Telegram for liambiju.19
+2025-05-09 00:53:35,732 - __main__ - INFO - Requesting https://t.me/liambiju.19 with User-Agent: Mozilla/5.0 (iPhone; CPU iPhon...
+2025-05-09 00:53:35,901 - __main__ - INFO - Final URL: https://telegram.org/
+2025-05-09 00:53:35,901 - __main__ - INFO - Status Code: 200
+2025-05-09 00:53:35,904 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 00:53:35] "POST / HTTP/1.1" 200 -
+2025-05-09 00:54:30,429 - __main__ - INFO - Checking GitHub for liambiju.19
+2025-05-09 00:54:32,187 - __main__ - INFO - Requesting https://github.com/liambiju.19 with User-Agent: Mozilla/5.0 (Windows NT 10.0; ...
+2025-05-09 00:54:32,413 - __main__ - INFO - Final URL: https://github.com/liambiju.19
+2025-05-09 00:54:32,414 - __main__ - INFO - Status Code: 404
+2025-05-09 00:54:32,414 - __main__ - INFO - Checking Twitter for liambiju.19
+2025-05-09 00:54:34,607 - __main__ - INFO - Requesting https://x.com/liambiju.19 with User-Agent: Mozilla/5.0 (iPhone; CPU iPhon...
+2025-05-09 00:54:34,861 - __main__ - INFO - Final URL: https://x.com/liambiju.19
+2025-05-09 00:54:34,863 - __main__ - INFO - Status Code: 200
+2025-05-09 00:54:34,866 - __main__ - INFO - Checking Instagram for liambiju.19
+2025-05-09 00:54:37,783 - __main__ - INFO - Requesting https://www.instagram.com/liambiju.19/ with User-Agent: Mozilla/5.0 (X11; Linux x86_64...
+2025-05-09 00:54:38,513 - __main__ - INFO - Final URL: https://www.instagram.com/liambiju.19/
+2025-05-09 00:54:38,513 - __main__ - INFO - Status Code: 200
+2025-05-09 00:54:38,527 - __main__ - INFO - Checking Facebook for liambiju.19
+2025-05-09 00:54:41,384 - __main__ - INFO - Requesting https://www.facebook.com/liambiju.19 with User-Agent: Mozilla/5.0 (Macintosh; Intel ...
+2025-05-09 00:54:41,587 - __main__ - INFO - Final URL: https://www.facebook.com/liambiju.19
+2025-05-09 00:54:41,588 - __main__ - INFO - Status Code: 200
+2025-05-09 00:54:41,588 - __main__ - INFO - Checking LinkedIn for liambiju.19
+2025-05-09 00:54:42,776 - __main__ - INFO - Requesting https://www.linkedin.com/in/liambiju.19 with User-Agent: Mozilla/5.0 (X11; Linux x86_64...
+2025-05-09 00:54:43,257 - __main__ - INFO - Final URL: https://www.linkedin.com/in/liambiju.19
+2025-05-09 00:54:43,257 - __main__ - INFO - Status Code: 999
+2025-05-09 00:54:43,257 - __main__ - INFO - Checking TikTok for liambiju.19
+2025-05-09 00:54:46,142 - __main__ - INFO - Requesting https://www.tiktok.com/@liambiju.19 with User-Agent: Mozilla/5.0 (Windows NT 10.0; ...
+2025-05-09 00:54:46,477 - __main__ - INFO - Final URL: https://www.tiktok.com/@liambiju.19
+2025-05-09 00:54:46,477 - __main__ - INFO - Status Code: 200
+2025-05-09 00:54:46,477 - __main__ - INFO - Checking Pinterest for liambiju.19
+2025-05-09 00:54:47,489 - __main__ - INFO - Requesting https://www.pinterest.com/liambiju.19/ with User-Agent: Mozilla/5.0 (iPhone; CPU iPhon...
+2025-05-09 00:54:47,871 - __main__ - INFO - Final URL: https://www.pinterest.com/liambiju.19/
+2025-05-09 00:54:47,871 - __main__ - INFO - Status Code: 200
+2025-05-09 00:54:47,873 - __main__ - INFO - Checking Snapchat for liambiju.19
+2025-05-09 00:54:49,993 - __main__ - INFO - Requesting https://www.snapchat.com/add/liambiju.19 with User-Agent: Mozilla/5.0 (iPhone; CPU iPhon...
+2025-05-09 00:54:50,173 - __main__ - INFO - Final URL: https://www.snapchat.com/add/liambiju.19
+2025-05-09 00:54:50,174 - __main__ - INFO - Status Code: 404
+2025-05-09 00:54:50,174 - __main__ - INFO - Checking Threads for liambiju.19
+2025-05-09 00:54:52,517 - __main__ - INFO - Requesting https://www.threads.net/@liambiju.19 with User-Agent: Mozilla/5.0 (Windows NT 10.0; ...
+2025-05-09 00:54:53,206 - __main__ - INFO - Final URL: https://www.threads.com/@liambiju.19
+2025-05-09 00:54:53,207 - __main__ - INFO - Status Code: 200
+2025-05-09 00:54:53,214 - __main__ - INFO - Checking Telegram for liambiju.19
+2025-05-09 00:54:56,049 - __main__ - INFO - Requesting https://t.me/liambiju.19 with User-Agent: Mozilla/5.0 (Windows NT 10.0; ...
+2025-05-09 00:54:56,214 - __main__ - INFO - Final URL: https://telegram.org/
+2025-05-09 00:54:56,214 - __main__ - INFO - Status Code: 200
+2025-05-09 00:54:56,229 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 00:54:56] "POST / HTTP/1.1" 200 -
+2025-05-10 00:00:29,966 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-10 00:00:29,967 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-10 00:00:29,983 - werkzeug - INFO -  * Restarting with stat
+2025-05-10 00:00:31,897 - werkzeug - WARNING -  * Debugger is active!
+2025-05-10 00:00:31,917 - werkzeug - INFO -  * Debugger PIN: 779-939-726
+2025-05-10 00:00:41,074 - werkzeug - INFO - 127.0.0.1 - - [10/May/2025 00:00:41] "GET / HTTP/1.1" 200 -
+2025-05-10 00:00:43,379 - __main__ - INFO - Checking GitHub for fuck
+2025-05-10 00:00:44,665 - __main__ - INFO - Requesting https://github.com/fuck with User-Agent: Mozilla/5.0 (Windows NT 10.0; ...
+2025-05-10 00:00:45,022 - __main__ - INFO - Final URL: https://github.com/fuck
+2025-05-10 00:00:45,022 - __main__ - INFO - Status Code: 404
+2025-05-10 00:00:45,023 - __main__ - INFO - Checking Twitter for fuck
+2025-05-10 00:00:46,132 - __main__ - INFO - Requesting https://x.com/fuck with User-Agent: Mozilla/5.0 (Macintosh; Intel ...
+2025-05-10 00:00:46,429 - __main__ - INFO - Final URL: https://x.com/fuck
+2025-05-10 00:00:46,430 - __main__ - INFO - Status Code: 200
+2025-05-10 00:00:46,436 - __main__ - INFO - Checking Instagram for fuck
+2025-05-10 00:00:47,531 - __main__ - INFO - Requesting https://www.instagram.com/fuck/ with User-Agent: Mozilla/5.0 (Windows NT 10.0; ...
+2025-05-10 00:00:48,389 - __main__ - INFO - Final URL: https://www.instagram.com/fuck/
+2025-05-10 00:00:48,391 - __main__ - INFO - Status Code: 200
+2025-05-10 00:00:48,415 - __main__ - INFO - Checking Facebook for fuck
+2025-05-10 00:00:50,888 - __main__ - INFO - Requesting https://www.facebook.com/fuck with User-Agent: Mozilla/5.0 (iPhone; CPU iPhon...
+2025-05-10 00:00:51,623 - __main__ - INFO - Final URL: https://m.facebook.com/login/?next=https%3a%2f%2fm.facebook.com%2ffuck%3fwtsid%3drdr_0evvdzlqxtkzm2rka&wtsid=rdr_0evvdzlqxtkzm2rka&refsrc=deprecated&_rdr
+2025-05-10 00:00:51,625 - __main__ - INFO - Status Code: 200
+2025-05-10 00:00:51,628 - __main__ - INFO - Checking LinkedIn for fuck
+2025-05-10 00:00:54,026 - __main__ - INFO - Requesting https://www.linkedin.com/in/fuck with User-Agent: Mozilla/5.0 (iPhone; CPU iPhon...
+2025-05-10 00:00:54,433 - __main__ - INFO - Final URL: https://www.linkedin.com/in/fuck
+2025-05-10 00:00:54,433 - __main__ - INFO - Status Code: 999
+2025-05-10 00:00:54,434 - __main__ - INFO - Checking TikTok for fuck
+2025-05-10 00:00:55,448 - __main__ - INFO - Requesting https://www.tiktok.com/@fuck with User-Agent: Mozilla/5.0 (Windows NT 10.0; ...
+2025-05-10 00:00:55,784 - __main__ - INFO - Final URL: https://www.tiktok.com/@fuck
+2025-05-10 00:00:55,785 - __main__ - INFO - Status Code: 200
+2025-05-10 00:00:55,786 - __main__ - INFO - Checking Pinterest for fuck
+2025-05-10 00:00:58,684 - __main__ - INFO - Requesting https://www.pinterest.com/fuck/ with User-Agent: Mozilla/5.0 (Windows NT 10.0; ...
+2025-05-10 00:00:59,109 - __main__ - INFO - Final URL: https://www.pinterest.com/fuck/
+2025-05-10 00:00:59,110 - __main__ - INFO - Status Code: 200
+2025-05-10 00:00:59,118 - __main__ - INFO - Checking Snapchat for fuck
+2025-05-10 00:01:00,161 - __main__ - INFO - Requesting https://www.snapchat.com/add/fuck with User-Agent: Mozilla/5.0 (Windows NT 10.0; ...
+2025-05-10 00:01:00,409 - __main__ - INFO - Final URL: https://www.snapchat.com/add/fuck
+2025-05-10 00:01:00,410 - __main__ - INFO - Status Code: 200
+2025-05-10 00:01:00,418 - __main__ - INFO - Checking Threads for fuck
+2025-05-10 00:01:03,125 - __main__ - INFO - Requesting https://www.threads.net/@fuck with User-Agent: Mozilla/5.0 (Windows NT 10.0; ...
+2025-05-10 00:01:03,650 - __main__ - INFO - Final URL: https://www.threads.com/@fuck
+2025-05-10 00:01:03,651 - __main__ - INFO - Status Code: 200
+2025-05-10 00:01:03,659 - __main__ - INFO - Checking Telegram for fuck
+2025-05-10 00:01:06,189 - __main__ - INFO - Requesting https://t.me/fuck with User-Agent: Mozilla/5.0 (Windows NT 10.0; ...
+2025-05-10 00:01:06,279 - __main__ - INFO - Final URL: https://t.me/fuck
+2025-05-10 00:01:06,279 - __main__ - INFO - Status Code: 200
+2025-05-10 00:01:06,286 - werkzeug - INFO - 127.0.0.1 - - [10/May/2025 00:01:06] "POST / HTTP/1.1" 200 -
+2025-05-10 00:01:37,492 - __main__ - WARNING - Invalid username format: ;;;12!"--====%%^^^^
+2025-05-10 00:01:37,500 - werkzeug - INFO - 127.0.0.1 - - [10/May/2025 00:01:37] "POST / HTTP/1.1" 200 -
+2025-05-10 01:07:20,344 - werkzeug - INFO - 127.0.0.1 - - [10/May/2025 01:07:20] "GET /download HTTP/1.1" 200 -
+2025-05-10 01:13:00,507 - __main__ - INFO - Checking GitHub for liambiju.19
+2025-05-10 01:13:02,367 - __main__ - INFO - Requesting https://github.com/liambiju.19 with User-Agent: Mozilla/5.0 (Windows NT 10.0; ...
+2025-05-10 01:13:02,552 - __main__ - INFO - Final URL: https://github.com/liambiju.19
+2025-05-10 01:13:02,552 - __main__ - INFO - Status Code: 404
+2025-05-10 01:13:02,553 - __main__ - INFO - Checking Twitter for liambiju.19
+2025-05-10 01:13:03,566 - __main__ - INFO - Requesting https://x.com/liambiju.19 with User-Agent: Mozilla/5.0 (Windows NT 10.0; ...
+2025-05-10 01:13:03,819 - __main__ - INFO - Final URL: https://x.com/liambiju.19
+2025-05-10 01:13:03,819 - __main__ - INFO - Status Code: 200
+2025-05-10 01:13:03,824 - __main__ - INFO - Checking Instagram for liambiju.19
+2025-05-10 01:13:05,194 - __main__ - INFO - Requesting https://www.instagram.com/liambiju.19/ with User-Agent: Mozilla/5.0 (X11; Linux x86_64...
+2025-05-10 01:13:05,625 - __main__ - INFO - Final URL: https://www.instagram.com/liambiju.19/
+2025-05-10 01:13:05,627 - __main__ - INFO - Status Code: 200
+2025-05-10 01:13:05,646 - __main__ - INFO - Checking Facebook for liambiju.19
+2025-05-10 01:13:08,241 - __main__ - INFO - Requesting https://www.facebook.com/liambiju.19 with User-Agent: Mozilla/5.0 (Macintosh; Intel ...
+2025-05-10 01:13:08,385 - __main__ - INFO - Final URL: https://www.facebook.com/liambiju.19
+2025-05-10 01:13:08,385 - __main__ - INFO - Status Code: 200
+2025-05-10 01:13:08,386 - __main__ - INFO - Checking LinkedIn for liambiju.19
+2025-05-10 01:13:11,286 - __main__ - INFO - Requesting https://www.linkedin.com/in/liambiju.19 with User-Agent: Mozilla/5.0 (X11; Linux x86_64...
+2025-05-10 01:13:11,679 - __main__ - INFO - Final URL: https://www.linkedin.com/in/liambiju.19
+2025-05-10 01:13:11,679 - __main__ - INFO - Status Code: 999
+2025-05-10 01:13:11,679 - __main__ - INFO - Checking TikTok for liambiju.19
+2025-05-10 01:13:12,979 - __main__ - INFO - Requesting https://www.tiktok.com/@liambiju.19 with User-Agent: Mozilla/5.0 (Windows NT 10.0; ...
+2025-05-10 01:13:13,359 - __main__ - INFO - Final URL: https://www.tiktok.com/@liambiju.19
+2025-05-10 01:13:13,359 - __main__ - INFO - Status Code: 200
+2025-05-10 01:13:13,359 - __main__ - INFO - Checking Pinterest for liambiju.19
+2025-05-10 01:13:15,372 - __main__ - INFO - Requesting https://www.pinterest.com/liambiju.19/ with User-Agent: Mozilla/5.0 (iPhone; CPU iPhon...
+2025-05-10 01:13:15,767 - __main__ - INFO - Final URL: https://www.pinterest.com/liambiju.19/
+2025-05-10 01:13:15,767 - __main__ - INFO - Status Code: 200
+2025-05-10 01:13:15,769 - __main__ - INFO - Checking Snapchat for liambiju.19
+2025-05-10 01:13:17,028 - __main__ - INFO - Requesting https://www.snapchat.com/add/liambiju.19 with User-Agent: Mozilla/5.0 (Windows NT 10.0; ...
+2025-05-10 01:13:17,231 - __main__ - INFO - Final URL: https://www.snapchat.com/add/liambiju.19
+2025-05-10 01:13:17,231 - __main__ - INFO - Status Code: 404
+2025-05-10 01:13:17,231 - __main__ - INFO - Checking Threads for liambiju.19
+2025-05-10 01:13:18,248 - __main__ - INFO - Requesting https://www.threads.net/@liambiju.19 with User-Agent: Mozilla/5.0 (Windows NT 10.0; ...
+2025-05-10 01:13:18,741 - __main__ - INFO - Final URL: https://www.threads.com/@liambiju.19
+2025-05-10 01:13:18,742 - __main__ - INFO - Status Code: 200
+2025-05-10 01:13:18,751 - __main__ - INFO - Checking Telegram for liambiju.19
+2025-05-10 01:13:21,117 - __main__ - INFO - Requesting https://t.me/liambiju.19 with User-Agent: Mozilla/5.0 (Windows NT 10.0; ...
+2025-05-10 01:13:21,348 - __main__ - INFO - Final URL: https://telegram.org/
+2025-05-10 01:13:21,348 - __main__ - INFO - Status Code: 200
+2025-05-10 01:13:21,356 - werkzeug - INFO - 127.0.0.1 - - [10/May/2025 01:13:21] "POST / HTTP/1.1" 200 -
+2025-05-10 15:23:38,680 - werkzeug - INFO -  * Detected change in 'c:\\Users\\Liam Uni\\Desktop\\project_folder\\example2.py', reloading
+2025-05-10 15:23:39,030 - werkzeug - INFO -  * Restarting with stat
+2025-05-10 15:23:44,024 - werkzeug - WARNING -  * Debugger is active!
+2025-05-10 15:23:44,047 - werkzeug - INFO -  * Debugger PIN: 779-939-726
+2025-05-10 15:23:54,144 - __main__ - INFO - Checking GitHub for jaic.saji_04
+2025-05-10 15:23:55,522 - __main__ - INFO - Requesting https://github.com/jaic.saji_04 with User-Agent: Mozilla/5.0 (Windows NT 10.0; ...
+2025-05-10 15:23:55,735 - __main__ - INFO - Final URL: https://github.com/jaic.saji_04
+2025-05-10 15:23:55,735 - __main__ - INFO - Status Code: 406
+2025-05-10 15:23:55,736 - __main__ - INFO - Checking Twitter for jaic.saji_04
+2025-05-10 15:23:57,322 - __main__ - INFO - Requesting https://x.com/jaic.saji_04 with User-Agent: Mozilla/5.0 (Windows NT 10.0; ...
+2025-05-10 15:23:57,593 - __main__ - INFO - Final URL: https://x.com/jaic.saji_04
+2025-05-10 15:23:57,594 - __main__ - INFO - Status Code: 200
+2025-05-10 15:23:57,599 - __main__ - INFO - Checking Instagram for jaic.saji_04
+2025-05-10 15:24:00,047 - __main__ - INFO - Requesting https://www.instagram.com/jaic.saji_04/ with User-Agent: Mozilla/5.0 (iPhone; CPU iPhon...
+2025-05-10 15:24:01,411 - __main__ - INFO - Final URL: https://www.instagram.com/jaic.saji_04/
+2025-05-10 15:24:01,411 - __main__ - INFO - Status Code: 200
+2025-05-10 15:24:01,430 - __main__ - INFO - Checking Facebook for jaic.saji_04
+2025-05-10 15:24:04,400 - __main__ - INFO - Requesting https://www.facebook.com/jaic.saji_04 with User-Agent: Mozilla/5.0 (iPhone; CPU iPhon...
+2025-05-10 15:24:05,247 - __main__ - INFO - Final URL: https://m.facebook.com/login/?next=https%3a%2f%2fm.facebook.com%2fjaic.saji_04%3fwtsid%3drdr_0qgpevkemo7lnkgha&wtsid=rdr_0qgpevkemo7lnkgha&refsrc=deprecated&_rdr
+2025-05-10 15:24:05,247 - __main__ - INFO - Status Code: 200
+2025-05-10 15:24:05,249 - __main__ - INFO - Checking LinkedIn for jaic.saji_04
+2025-05-10 15:24:06,845 - __main__ - INFO - Requesting https://www.linkedin.com/in/jaic.saji_04 with User-Agent: Mozilla/5.0 (iPhone; CPU iPhon...
+2025-05-10 15:24:07,240 - __main__ - INFO - Final URL: https://www.linkedin.com/in/jaic.saji_04
+2025-05-10 15:24:07,240 - __main__ - INFO - Status Code: 999
+2025-05-10 15:24:07,241 - __main__ - INFO - Checking TikTok for jaic.saji_04
+2025-05-10 15:24:09,582 - __main__ - INFO - Requesting https://www.tiktok.com/@jaic.saji_04 with User-Agent: Mozilla/5.0 (iPhone; CPU iPhon...
+2025-05-10 15:24:09,807 - __main__ - INFO - Final URL: https://www.tiktok.com/@jaic.saji_04
+2025-05-10 15:24:09,807 - __main__ - INFO - Status Code: 200
+2025-05-10 15:24:09,808 - __main__ - INFO - Checking Pinterest for jaic.saji_04
+2025-05-10 15:24:12,703 - __main__ - INFO - Requesting https://www.pinterest.com/jaic.saji_04/ with User-Agent: Mozilla/5.0 (Windows NT 10.0; ...
+2025-05-10 15:24:13,346 - __main__ - INFO - Final URL: https://www.pinterest.com/jaic.saji_04/
+2025-05-10 15:24:13,347 - __main__ - INFO - Status Code: 200
+2025-05-10 15:24:13,349 - __main__ - INFO - Checking Snapchat for jaic.saji_04
+2025-05-10 15:24:15,457 - __main__ - INFO - Requesting https://www.snapchat.com/add/jaic.saji_04 with User-Agent: Mozilla/5.0 (Windows NT 10.0; ...
+2025-05-10 15:24:15,702 - __main__ - INFO - Final URL: https://www.snapchat.com/add/jaic.saji_04
+2025-05-10 15:24:15,703 - __main__ - INFO - Status Code: 404
+2025-05-10 15:24:15,703 - __main__ - INFO - Checking Threads for jaic.saji_04
+2025-05-10 15:24:17,355 - __main__ - INFO - Requesting https://www.threads.net/@jaic.saji_04 with User-Agent: Mozilla/5.0 (Windows NT 10.0; ...
+2025-05-10 15:24:17,734 - __main__ - INFO - Final URL: https://www.threads.com/@jaic.saji_04
+2025-05-10 15:24:17,735 - __main__ - INFO - Status Code: 200
+2025-05-10 15:24:17,744 - __main__ - INFO - Checking Telegram for jaic.saji_04
+2025-05-10 15:24:19,732 - __main__ - INFO - Requesting https://t.me/jaic.saji_04 with User-Agent: Mozilla/5.0 (X11; Linux x86_64...
+2025-05-10 15:24:19,921 - __main__ - INFO - Final URL: https://telegram.org/
+2025-05-10 15:24:19,921 - __main__ - INFO - Status Code: 200
+2025-05-10 15:24:20,010 - werkzeug - INFO - 127.0.0.1 - - [10/May/2025 15:24:20] "POST / HTTP/1.1" 200 -
+2025-05-10 20:01:53,783 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-10 20:01:53,783 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-10 20:01:53,787 - werkzeug - INFO -  * Restarting with stat
+2025-05-10 20:01:55,518 - werkzeug - WARNING -  * Debugger is active!
+2025-05-10 20:01:55,541 - werkzeug - INFO -  * Debugger PIN: 779-939-726
+2025-05-10 20:02:02,628 - __main__ - INFO - Checking GitHub for vindalooboy
+2025-05-10 20:02:04,653 - __main__ - INFO - Requesting https://github.com/vindalooboy with User-Agent: Mozilla/5.0 (X11; Linux x86_64...
+2025-05-10 20:02:04,968 - __main__ - INFO - Final URL: https://github.com/vindalooboy
+2025-05-10 20:02:04,968 - __main__ - INFO - Status Code: 200
+2025-05-10 20:02:04,974 - __main__ - INFO - Checking Twitter for vindalooboy
+2025-05-10 20:02:07,075 - __main__ - INFO - Requesting https://x.com/vindalooboy with User-Agent: Mozilla/5.0 (X11; Linux x86_64...
+2025-05-10 20:02:07,334 - __main__ - INFO - Final URL: https://x.com/vindalooboy
+2025-05-10 20:02:07,334 - __main__ - INFO - Status Code: 200
+2025-05-10 20:02:07,340 - __main__ - INFO - Checking Instagram for vindalooboy
+2025-05-10 20:02:08,787 - __main__ - INFO - Requesting https://www.instagram.com/vindalooboy/ with User-Agent: Mozilla/5.0 (iPhone; CPU iPhon...
+2025-05-10 20:02:09,242 - __main__ - INFO - Final URL: https://www.instagram.com/vindalooboy/
+2025-05-10 20:02:09,243 - __main__ - INFO - Status Code: 200
+2025-05-10 20:02:09,267 - __main__ - INFO - Checking Facebook for vindalooboy
+2025-05-10 20:02:12,059 - __main__ - INFO - Requesting https://www.facebook.com/vindalooboy with User-Agent: Mozilla/5.0 (Windows NT 10.0; ...
+2025-05-10 20:02:12,260 - __main__ - INFO - Final URL: https://www.facebook.com/vindalooboy
+2025-05-10 20:02:12,260 - __main__ - INFO - Status Code: 400
+2025-05-10 20:02:12,261 - __main__ - INFO - Checking LinkedIn for vindalooboy
+2025-05-10 20:02:13,816 - __main__ - INFO - Requesting https://www.linkedin.com/in/vindalooboy with User-Agent: Mozilla/5.0 (Macintosh; Intel ...
+2025-05-10 20:02:14,249 - __main__ - INFO - Final URL: https://www.linkedin.com/in/vindalooboy
+2025-05-10 20:02:14,249 - __main__ - INFO - Status Code: 999
+2025-05-10 20:02:14,251 - __main__ - INFO - Checking TikTok for vindalooboy
+2025-05-10 20:02:16,656 - __main__ - INFO - Requesting https://www.tiktok.com/@vindalooboy with User-Agent: Mozilla/5.0 (Windows NT 10.0; ...
+2025-05-10 20:02:16,906 - __main__ - INFO - Final URL: https://www.tiktok.com/@vindalooboy
+2025-05-10 20:02:16,907 - __main__ - INFO - Status Code: 200
+2025-05-10 20:02:16,907 - __main__ - INFO - Checking Pinterest for vindalooboy
+2025-05-10 20:02:19,596 - __main__ - INFO - Requesting https://www.pinterest.com/vindalooboy/ with User-Agent: Mozilla/5.0 (X11; Linux x86_64...
+2025-05-10 20:02:20,027 - __main__ - INFO - Final URL: https://www.pinterest.com/vindalooboy/
+2025-05-10 20:02:20,027 - __main__ - INFO - Status Code: 200
+2025-05-10 20:02:20,029 - __main__ - INFO - Checking Snapchat for vindalooboy
+2025-05-10 20:02:22,458 - __main__ - INFO - Requesting https://www.snapchat.com/add/vindalooboy with User-Agent: Mozilla/5.0 (Windows NT 10.0; ...
+2025-05-10 20:02:22,668 - __main__ - INFO - Final URL: https://www.snapchat.com/add/vindalooboy
+2025-05-10 20:02:22,669 - __main__ - INFO - Status Code: 404
+2025-05-10 20:02:22,669 - __main__ - INFO - Checking Threads for vindalooboy
+2025-05-10 20:02:24,044 - __main__ - INFO - Requesting https://www.threads.net/@vindalooboy with User-Agent: Mozilla/5.0 (iPhone; CPU iPhon...
+2025-05-10 20:02:24,627 - __main__ - INFO - Final URL: https://www.threads.com/@vindalooboy
+2025-05-10 20:02:24,628 - __main__ - INFO - Status Code: 200
+2025-05-10 20:02:24,641 - __main__ - INFO - Checking Telegram for vindalooboy
+2025-05-10 20:02:26,888 - __main__ - INFO - Requesting https://t.me/vindalooboy with User-Agent: Mozilla/5.0 (X11; Linux x86_64...
+2025-05-10 20:02:26,982 - __main__ - INFO - Final URL: https://t.me/vindalooboy
+2025-05-10 20:02:26,982 - __main__ - INFO - Status Code: 200
+2025-05-10 20:02:27,006 - werkzeug - INFO - 127.0.0.1 - - [10/May/2025 20:02:27] "POST / HTTP/1.1" 200 -
+2025-05-10 20:05:14,506 - __main__ - INFO - Checking GitHub for shonepious
+2025-05-10 20:05:16,505 - __main__ - INFO - Requesting https://github.com/shonepious with User-Agent: Mozilla/5.0 (Windows NT 10.0; ...
+2025-05-10 20:05:16,850 - __main__ - INFO - Final URL: https://github.com/shonepious
+2025-05-10 20:05:16,851 - __main__ - INFO - Status Code: 200
+2025-05-10 20:05:16,857 - __main__ - INFO - Checking Twitter for shonepious
+2025-05-10 20:05:19,449 - __main__ - INFO - Requesting https://x.com/shonepious with User-Agent: Mozilla/5.0 (Macintosh; Intel ...
+2025-05-10 20:05:19,709 - __main__ - INFO - Final URL: https://x.com/shonepious
+2025-05-10 20:05:19,710 - __main__ - INFO - Status Code: 200
+2025-05-10 20:05:19,714 - __main__ - INFO - Checking Instagram for shonepious
+2025-05-10 20:05:20,736 - __main__ - INFO - Requesting https://www.instagram.com/shonepious/ with User-Agent: Mozilla/5.0 (X11; Linux x86_64...
+2025-05-10 20:05:21,158 - __main__ - INFO - Final URL: https://www.instagram.com/shonepious/
+2025-05-10 20:05:21,158 - __main__ - INFO - Status Code: 200
+2025-05-10 20:05:21,180 - __main__ - INFO - Checking Facebook for shonepious
+2025-05-10 20:05:23,220 - __main__ - INFO - Requesting https://www.facebook.com/shonepious with User-Agent: Mozilla/5.0 (Macintosh; Intel ...
+2025-05-10 20:05:23,581 - __main__ - INFO - Final URL: https://www.facebook.com/shonepious
+2025-05-10 20:05:23,581 - __main__ - INFO - Status Code: 200
+2025-05-10 20:05:23,582 - __main__ - INFO - Checking LinkedIn for shonepious
+2025-05-10 20:05:25,246 - __main__ - INFO - Requesting https://www.linkedin.com/in/shonepious with User-Agent: Mozilla/5.0 (X11; Linux x86_64...
+2025-05-10 20:05:25,645 - __main__ - INFO - Final URL: https://www.linkedin.com/in/shonepious
+2025-05-10 20:05:25,646 - __main__ - INFO - Status Code: 999
+2025-05-10 20:05:25,646 - __main__ - INFO - Checking TikTok for shonepious
+2025-05-10 20:05:27,104 - __main__ - INFO - Requesting https://www.tiktok.com/@shonepious with User-Agent: Mozilla/5.0 (Windows NT 10.0; ...
+2025-05-10 20:05:27,421 - __main__ - INFO - Final URL: https://www.tiktok.com/@shonepious
+2025-05-10 20:05:27,422 - __main__ - INFO - Status Code: 200
+2025-05-10 20:05:27,424 - __main__ - INFO - Checking Pinterest for shonepious
+2025-05-10 20:05:29,042 - __main__ - INFO - Requesting https://www.pinterest.com/shonepious/ with User-Agent: Mozilla/5.0 (iPhone; CPU iPhon...
+2025-05-10 20:05:29,387 - __main__ - INFO - Final URL: https://www.pinterest.com/shonepious/
+2025-05-10 20:05:29,387 - __main__ - INFO - Status Code: 200
+2025-05-10 20:05:29,389 - __main__ - INFO - Checking Snapchat for shonepious
+2025-05-10 20:05:32,307 - __main__ - INFO - Requesting https://www.snapchat.com/add/shonepious with User-Agent: Mozilla/5.0 (Windows NT 10.0; ...
+2025-05-10 20:05:32,679 - __main__ - INFO - Final URL: https://www.snapchat.com/add/shonepious
+2025-05-10 20:05:32,679 - __main__ - INFO - Status Code: 200
+2025-05-10 20:05:32,688 - __main__ - INFO - Checking Threads for shonepious
+2025-05-10 20:05:33,731 - __main__ - INFO - Requesting https://www.threads.net/@shonepious with User-Agent: Mozilla/5.0 (X11; Linux x86_64...
+2025-05-10 20:05:34,188 - __main__ - INFO - Final URL: https://www.threads.com/@shonepious
+2025-05-10 20:05:34,190 - __main__ - INFO - Status Code: 200
+2025-05-10 20:05:34,199 - __main__ - INFO - Checking Telegram for shonepious
+2025-05-10 20:05:36,691 - __main__ - INFO - Requesting https://t.me/shonepious with User-Agent: Mozilla/5.0 (Windows NT 10.0; ...
+2025-05-10 20:05:36,798 - __main__ - INFO - Final URL: https://t.me/shonepious
+2025-05-10 20:05:36,799 - __main__ - INFO - Status Code: 200
+2025-05-10 20:05:36,804 - werkzeug - INFO - 127.0.0.1 - - [10/May/2025 20:05:36] "POST / HTTP/1.1" 200 -
+2025-05-10 20:08:57,513 - werkzeug - INFO - 127.0.0.1 - - [10/May/2025 20:08:57] "GET /download HTTP/1.1" 200 -
+2025-05-10 22:16:29,018 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-10 22:16:29,018 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-10 22:16:29,022 - werkzeug - INFO -  * Restarting with stat
+2025-05-10 22:16:30,839 - werkzeug - WARNING -  * Debugger is active!
+2025-05-10 22:16:30,856 - werkzeug - INFO -  * Debugger PIN: 779-939-726
+2025-05-10 22:17:09,216 - werkzeug - INFO - 127.0.0.1 - - [10/May/2025 22:17:09] "GET / HTTP/1.1" 200 -
+2025-05-10 22:17:33,405 - __main__ - INFO - Checking GitHub for liambiju.19
+2025-05-10 22:17:34,876 - __main__ - INFO - Requesting https://github.com/liambiju.19 with User-Agent: Mozilla/5.0 (iPhone; CPU iPhon...
+2025-05-10 22:17:35,080 - __main__ - INFO - Final URL: https://github.com/liambiju.19
+2025-05-10 22:17:35,080 - __main__ - INFO - Status Code: 404
+2025-05-10 22:17:35,081 - __main__ - INFO - Checking Twitter for liambiju.19
+2025-05-10 22:17:36,991 - __main__ - INFO - Requesting https://x.com/liambiju.19 with User-Agent: Mozilla/5.0 (X11; Linux x86_64...
+2025-05-10 22:17:37,263 - __main__ - INFO - Final URL: https://x.com/liambiju.19
+2025-05-10 22:17:37,264 - __main__ - INFO - Status Code: 200
+2025-05-10 22:17:37,268 - __main__ - INFO - Checking Instagram for liambiju.19
+2025-05-10 22:17:38,774 - __main__ - INFO - Requesting https://www.instagram.com/liambiju.19/ with User-Agent: Mozilla/5.0 (Windows NT 10.0; ...
+2025-05-10 22:17:39,164 - __main__ - INFO - Final URL: https://www.instagram.com/liambiju.19/
+2025-05-10 22:17:39,165 - __main__ - INFO - Status Code: 200
+2025-05-10 22:17:39,183 - __main__ - INFO - Checking Facebook for liambiju.19
+2025-05-10 22:17:40,588 - __main__ - INFO - Requesting https://www.facebook.com/liambiju.19 with User-Agent: Mozilla/5.0 (Windows NT 10.0; ...
+2025-05-10 22:17:40,734 - __main__ - INFO - Final URL: https://www.facebook.com/liambiju.19
+2025-05-10 22:17:40,734 - __main__ - INFO - Status Code: 400
+2025-05-10 22:17:40,736 - __main__ - INFO - Checking LinkedIn for liambiju.19
+2025-05-10 22:17:42,678 - __main__ - INFO - Requesting https://www.linkedin.com/in/liambiju.19 with User-Agent: Mozilla/5.0 (X11; Linux x86_64...
+2025-05-10 22:17:43,053 - __main__ - INFO - Final URL: https://www.linkedin.com/in/liambiju.19
+2025-05-10 22:17:43,053 - __main__ - INFO - Status Code: 999
+2025-05-10 22:17:43,054 - __main__ - INFO - Checking TikTok for liambiju.19
+2025-05-10 22:17:45,688 - __main__ - INFO - Requesting https://www.tiktok.com/@liambiju.19 with User-Agent: Mozilla/5.0 (Macintosh; Intel ...
+2025-05-10 22:17:46,005 - __main__ - INFO - Final URL: https://www.tiktok.com/@liambiju.19
+2025-05-10 22:17:46,005 - __main__ - INFO - Status Code: 200
+2025-05-10 22:17:46,006 - __main__ - INFO - Checking Pinterest for liambiju.19
+2025-05-10 22:17:47,688 - __main__ - INFO - Requesting https://www.pinterest.com/liambiju.19/ with User-Agent: Mozilla/5.0 (X11; Linux x86_64...
+2025-05-10 22:17:48,120 - __main__ - INFO - Final URL: https://www.pinterest.com/liambiju.19/
+2025-05-10 22:17:48,122 - __main__ - INFO - Status Code: 200
+2025-05-10 22:17:48,124 - __main__ - INFO - Checking Snapchat for liambiju.19
+2025-05-10 22:17:50,723 - __main__ - INFO - Requesting https://www.snapchat.com/add/liambiju.19 with User-Agent: Mozilla/5.0 (iPhone; CPU iPhon...
+2025-05-10 22:17:50,930 - __main__ - INFO - Final URL: https://www.snapchat.com/add/liambiju.19
+2025-05-10 22:17:50,930 - __main__ - INFO - Status Code: 404
+2025-05-10 22:17:50,930 - __main__ - INFO - Checking Threads for liambiju.19
+2025-05-10 22:17:53,010 - __main__ - INFO - Requesting https://www.threads.net/@liambiju.19 with User-Agent: Mozilla/5.0 (X11; Linux x86_64...
+2025-05-10 22:17:53,552 - __main__ - INFO - Final URL: https://www.threads.com/@liambiju.19
+2025-05-10 22:17:53,553 - __main__ - INFO - Status Code: 200
+2025-05-10 22:17:53,567 - __main__ - INFO - Checking Telegram for liambiju.19
+2025-05-10 22:17:55,453 - __main__ - INFO - Requesting https://t.me/liambiju.19 with User-Agent: Mozilla/5.0 (iPhone; CPU iPhon...
+2025-05-10 22:17:55,642 - __main__ - INFO - Final URL: https://telegram.org/
+2025-05-10 22:17:55,642 - __main__ - INFO - Status Code: 200
+2025-05-10 22:17:55,653 - werkzeug - INFO - 127.0.0.1 - - [10/May/2025 22:17:55] "POST / HTTP/1.1" 200 -
+2025-05-10 22:24:09,573 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-10 22:24:09,573 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-10 22:24:09,576 - werkzeug - INFO -  * Restarting with stat
+2025-05-10 22:24:11,206 - werkzeug - WARNING -  * Debugger is active!
+2025-05-10 22:24:11,227 - werkzeug - INFO -  * Debugger PIN: 779-939-726
+2025-05-10 22:25:31,776 - werkzeug - INFO - 127.0.0.1 - - [10/May/2025 22:25:31] "GET / HTTP/1.1" 200 -
+2025-05-10 22:31:32,609 - werkzeug - INFO -  * Detected change in 'c:\\Users\\Liam Uni\\Desktop\\project_folder\\example2.py', reloading
+2025-05-10 22:31:32,735 - werkzeug - INFO -  * Restarting with stat
+2025-05-10 22:31:34,793 - werkzeug - WARNING -  * Debugger is active!
+2025-05-10 22:31:34,805 - werkzeug - INFO -  * Debugger PIN: 779-939-726
+2025-05-16 21:11:44,057 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-16 21:11:44,057 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-16 21:11:44,066 - werkzeug - INFO -  * Restarting with stat
+2025-05-16 21:11:45,043 - werkzeug - WARNING -  * Debugger is active!
+2025-05-16 21:11:45,051 - werkzeug - INFO -  * Debugger PIN: 136-773-558
+2025-05-16 21:13:40,451 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-16 21:13:40,451 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-16 21:13:40,453 - werkzeug - INFO -  * Restarting with stat
+2025-05-16 21:13:41,416 - werkzeug - WARNING -  * Debugger is active!
+2025-05-16 21:13:41,426 - werkzeug - INFO -  * Debugger PIN: 136-773-558
